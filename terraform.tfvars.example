@@ -1,0 +1,6 @@
+secret_name = "very_important_secret"
+
+owner = "your_name"
+
+file_path = "../../relative/path/to/secret/file.txt"
+
